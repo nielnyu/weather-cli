@@ -10,4 +10,4 @@ CLI for OpenWeatherAPI
 5. Run `cli-weather` in terminal to use CLI application
 
 # Info 
-This code is written in Javascript, using NodeJS framework. 
+This code is written in Javascript, using NodeJS. 
